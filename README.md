@@ -1,2 +1,2 @@
 # chess
-chess in js
+chess in py
